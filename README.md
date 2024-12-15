@@ -1,4 +1,4 @@
-<h1 align="center" id="title">42-ft_ping</h1>
+<h1 align="center" id="title">42-push_swap</h1>
 
 **_<p id="description" align="center"> Repository for the 42-Cursus abollen's project at 42Lyon </p>_**
 
